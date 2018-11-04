@@ -1,7 +1,7 @@
 {
   "name": "bs4examples-resume",
   "version": "1.0.0",
-  "description": "Resume Theme based on Bootstrap 4 course",
+  "description": "Resume Theme based on Bootstrap 4 Udemy (Brad Traversy)course",
   "main": "index.js",
   "scripts": {},
   "keywords": [
